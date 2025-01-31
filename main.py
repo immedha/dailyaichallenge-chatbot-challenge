@@ -4,8 +4,8 @@ We will be using it to create a simple chatbot interface: displaying the previou
 
 You need to learn just a couple of things first to use it: 
 (1) what is session state: https://docs.streamlit.io/develop/api-reference/caching-and-state/st.session_state
-(2) How to use the chat_message and markdoown() functions for displaying the assistant/user messages in a chatbot interface: https://docs.streamlit.io/develop/api-reference/chat/st.chat_message
-(3) How to get user input (chat_input function): https://docs.streamlit.io/develop/api-reference/widgets/st.text_input
+(2) How to use the chat_message() and markdown() functions for displaying the assistant/user messages in a chatbot interface: https://docs.streamlit.io/develop/api-reference/chat/st.chat_message
+(3) How to get user input (chat_input() function): https://docs.streamlit.io/develop/api-reference/chat/st.chat_input
 
 NOTE: To run your streamlit app, run the coommand `streamlit run main.py` in your terminal.
 """
