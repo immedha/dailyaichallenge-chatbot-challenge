@@ -10,7 +10,7 @@ Your task is to create a chatbot that has a specific personality (e.g., sarcasti
 
 Below, I will walk you through all the steps to set up this repository and implement this challenge. We will be using Streamlit and the Open AI API for it. Let's get started! 🔥
 
-### Note: if you are stuck, feel free to view our sample solution [in this repository](https://colab.research.google.com/drive/1rPbsWCEhRkBzHOK7wDLXTMUz5KRQix4S?usp=sharing)
+### Note: if you are stuck, feel free to view our sample solution [in this repository](https://github.com/immedha/dailyaichallenge-chatbot-SOLUTION)
 
 ## Steps
 1. Clone the repository by doing `git clone <url>`. 
@@ -18,7 +18,7 @@ Below, I will walk you through all the steps to set up this repository and imple
 1. Run `pip install -r requirements.txt` to install the dependencies.
 1. Create a file called `.env` in the root directory and add `OPENAI_API_KEY=your-api-key` to it, filling in your actual Open AI API key
 1. Go to `main.py`. In this file, I will walk you through each step of implementing this challenge; you just need to fill in the `# TODO`s in the file.
-1. NOTE: To run your streamlit app, run the coommand `streamlit run main.py` in your terminal.
+1. NOTE: To run your streamlit app, run the command `streamlit run main.py` in your terminal.
 1. Upload the link to your github repository in your portfolio at [dailyaichallenge.com](dailyaichallenge.com).
 
 ## After you are done:
