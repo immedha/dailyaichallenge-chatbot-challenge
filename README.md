@@ -13,6 +13,7 @@ Below, I will walk you through all the steps to set up this repository and imple
 ### Note: if you are stuck, feel free to view our sample solution [in this repository](https://colab.research.google.com/drive/1rPbsWCEhRkBzHOK7wDLXTMUz5KRQix4S?usp=sharing)
 
 ## Steps
+1. Clone the repository by doing `git clone <url>`. 
 1. Create a python virtual environment. On a MacOS, do `python3 -m venv venv`. Run `source venv/bin/activate` to activate it.
 1. Run `pip install -r requirements.txt` to install the dependencies.
 1. Create a file called `.env` in the root directory and add `OPENAI_API_KEY=your-api-key` to it, filling in your actual Open AI API key
